@@ -13,9 +13,9 @@ Mobile-app (Flutter & Dart): This is the app that you use on your phone. It can 
 
 Euterpefy uses a mix of both server and app to work efficiently:
 
-Server-side: This part does the heavy lifting by getting data from Spotify, keeping it ready, and making sure everything runs fast. Uses Rust for its speed and safety. It deals with Spotify, keeps data ready, and sends info to the app.
+- Server-side: This part does the heavy lifting by getting data from Spotify, keeping it ready, and making sure everything runs fast. Uses Rust for its speed and safety. It deals with Spotify, keeps data ready, and sends info to the app.
 
-Mobile App: For anything specific to the user, like their playlists or music they like, the app talks directly to Spotify. This makes sure the app always has the latest info and can offer music that's just right for the user. Built with Flutter & Dart for a nice looking and easy-to-use interface. It handles logging into Spotify and shows you your music recommendations.
+- Mobile App: For anything specific to the user, like their playlists or music they like, the app talks directly to Spotify. This makes sure the app always has the latest info and can offer music that's just right for the user. Built with Flutter & Dart for a nice looking and easy-to-use interface. It handles logging into Spotify and shows you your music recommendations.
 
 ### Server-side (Rust API)
 
