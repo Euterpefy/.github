@@ -33,7 +33,7 @@ The mobile application is where users interact with Euterpefy. It features:
 
 ## Contributing
 
-This is a personal project by [me]([github](https://github.com/bluesimp1102), so it's not looking for public contributions right now. But feel free to share your thoughts or suggestions through GitHub.
+This is a personal project by [me](https://github.com/bluesimp1102), so it's not looking for public contributions right now. But feel free to share your thoughts or suggestions through GitHub.
 
 ## License
 
