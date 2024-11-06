@@ -6,8 +6,8 @@ Welcome to Euterpefy, an open-source music recommendation project developed by P
 
 ## Project Overview
 
-Euterpefy is now a primarily web-based application, with the mobile app component being limited to the CS4750 course. 
-- The server-side component has been deprecated and is no longer in use.
+Euterpefy is now a primarily web-based application, with the mobile app project being limited to the CS4750 course. 
+- The `server-side` repo has been deprecated and is no longer in use.
 
 ### Mobile App (Flutter & Dart)
 
